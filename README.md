@@ -4,12 +4,40 @@
 🛡️ Passionate about Penetration Testing, Cyber Security, and Ethical Hacking  
 💡 I believe in asking deep questions, doing meaningful research, and solving real-world problems.
 
-🚀 What I’m Working On
+# 👨‍💻 Incredible Aik's Learning Tracker
 
-🌐 Building my personal portfolio site using HTML & GitHub Pages  
-💻 Learning Git & GitHub for collaborative projects  
-🧪 Recently completed a group virtualization project (Ubuntu OS + game deployment)  
-🧠 Constantly exploring ethical hacking and digital security
+This repo tracks my learning journey into ethical hacking, penetration testing, programming, and beyond. It’s connected to my [GitHub Project Board](https://github.com/users/YourUsername/projects/1) for visual progress.
+
+## 🚀 Learning Goals
+
+### 🟥 Backlog
+- [ ] Learn Penetration Testing (Kali Linux, Metasploit, Burp Suite)
+- [ ] Understand Ethical Hacking (CEH basics, OWASP Top 10)
+- [ ] Perform Threat Analysis & Risk Assessment
+- [ ] Learn Python for scripting, automation & tool building
+- [ ] Study Object-Oriented Programming & Git workflows
+- [ ] Learn SQL (queries + injection testing)
+- [ ] Practice Graphic Design with Canva/Figma
+- [ ] Learn how GitHub pull requests & branches work
+- [ ] Build GitHub Pages Portfolio Website
+- [ ] Improve public speaking & presentation skills
+
+### 🔵 Ready to Start
+- [ ] Study Wireshark & Nmap basics
+- [ ] Learn `.gitignore` and Git commit best practices
+- [ ] Start a basic web security project (HTML + JS)
+- [ ] Create a personal script for automating Linux tasks
+
+### 🟡 In Progress
+- [ ] Master Linux Command Line (chmod, nano, grep, etc.)
+- [ ] Learn HTML basics (structure, forms, links)
+- [ ] Learn C++ syntax and fundamentals
+
+### 🟣 In Review
+- [ ] Finalize Virtualization Project README
+- [ ] Refine GitHub profile content
+- [ ] Polish CV & scholarship statements
+
 
 🛠️ Tech Stack
 
