@@ -38,6 +38,13 @@ This repo tracks my learning journey into ethical hacking, penetration testing, 
 - [ ] Refine GitHub profile content
 - [ ] Polish CV & scholarship statements
 
+## 🏆 Certification
+
+- ✅ Completed [ALX AiCE - AI Career Essentials](https://www.alxafrica.com/)
+  
+  ![AiCE Badge](https://github.com/Incredible-Aik/Incredible-Aik/blob/main/Completion%20badge%20V2.gif)
+
+
 
 🛠️ Tech Stack
 
